@@ -1,0 +1,1 @@
+minimal_rust_hashmap_function_pointer
